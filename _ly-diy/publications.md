@@ -55,11 +55,23 @@ person interaction recognition***](https://dl.acm.org/doi/abs/10.1145/3639470). 
 
 4. Song Sun, Danyang Song, Jinzhu Yang, Zhitao Zhang, Qi Yu, Haiyang Sun, Yangyang Li, **Yao Liu**, [***STENet: A Multi-task Segmentation Network with Spatial Topology Enhancement for Fetal Echocardiography***](). <!-- Expert Systems With Applications -->  <!-- JCR-7.5/Q1; ZKY-Q1 TOP-->
 
-<!-- Ruoyu Wang, TIST， CCF B -->
+5. Qi Yu, Danyang Song, Jinzhu Yang, Zhitao Zhang, Song Sun, Haiyang Sun, Yangyang Li, **Yao Liu**, Yiqiu Qi, Mei Wei, Yiming Liu,[***A Hybrid Contrastive Learning-based Correction Model for Semi-supervised Fetal Echocardiography Segmentation***](). <!- Knowledge-Based Systems (KNOSYS/KBS) -->  <!-- CCF-C; JCR-7.2/Q1; ZKY-Q1 TOP -->
 
-<!-- Honghe LI;  Hongfei Wang;  Qi yu -->
+6. Bo Wang, **Yao Liu**, Rui Wang, Qiuye Sun, [***Trajectory prediction model of electric vehicle autonomous driving based on hybrid attention transformer network***](). <!-- IET Intelligent Transport Systems -->  <!-- JCR-2.3/Q2; ZKY-Q4 -->
 
-<!-- Xiaojian Wang; Bo Wang; Mingyuan Shi -->
+7. Ruoyu Wang, Tong Yu, Mingjie Li, Yuanjiang Cao, **Yao Liu**, Lina Yao, [***Learning Causality-Aware Exploration with Transformers for Goal-Oriented Navigation***](). <!-- ACM Transactions on Intelligent Systems and Technology -->  <!-- CCF-B JCR-7.2/Q1; ZKY-Q4 -->
+
+
+
+
+
+
+
+<!-- Honghe LI;  Hongfei Wang;  -->
+
+<!-- Xiaojian Wang; Mingyuan Shi -->
+
+
 *The symbol * denotes the corresponding author, while # indicates authors who contributed equally.*
 
 
