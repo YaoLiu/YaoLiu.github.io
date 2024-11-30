@@ -59,7 +59,7 @@ person interaction recognition***](https://dl.acm.org/doi/abs/10.1145/3639470). 
 
 6. Bo Wang, **Yao Liu**, Rui Wang, Qiuye Sun, [***Trajectory prediction model of electric vehicle autonomous driving based on hybrid attention transformer network***](). <!-- IET Intelligent Transport Systems -->  <!-- JCR-2.3/Q2; ZKY-Q4 -->
 
-7. Ruoyu Wang, Tong Yu, Mingjie Li, Yuanjiang Cao, **Yao Liu**, Lina Yao, [***Learning Causality-Aware Exploration with Transformers for Goal-Oriented Navigation***](). <!-- ACM Transactions on Intelligent Systems and Technology -->  <!-- CCF-B JCR-7.2/Q1; ZKY-Q4 -->
+7. Ruoyu Wang, Tong Yu, Mingjie Li, Yuanjiang Cao, **Yao Liu**, Lina Yao, [***Learning Causality-Aware Exploration with Transformers for Goal-Oriented Navigation***](). <!-- ACM Transactions on Intelligent Systems and Technology (TIST)-->  <!-- CCF-B JCR-7.2/Q1; ZKY-Q4 -->
 
 
 
