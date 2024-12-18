@@ -10,9 +10,9 @@ permalink: /services/
 ## PC Member
 
 * The 2025 Web Conference 2025 (WWW 2025)
-* The 2024 International Conference on Neural Information Processing (ICONIP 2024)
+* The 29th Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD 2025) <!--  -->
+* The 2024 International Conference on Neural Information Processing (ICONIP 2024) <!--  -->
 * The 2024 IEEE International Conference on Big Data (IEEE BigData 2024)
-* The 33st ACM International Conference on Information and Knowledge Management (CIKM 2024)
 * The 32st ACM International Conference on Information and Knowledge Management (CIKM 2023)
 
 
