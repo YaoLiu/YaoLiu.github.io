@@ -9,7 +9,7 @@ permalink: /publications/
 
 ## Conference Paper
 
-7. Xiaoxuan Li, **Yao Liu**, Ruoyu Wang and Lina Yao, [***Regularized Multi-LLMs Collaboration for Enhanced Score-based Causal Discovery***](). The 2024 International Web Information Systems Engineering conference (WISE 2024), Doha, Qatar, 2 December - 5 December, 2024. <!-- CCF-C; CORE-B -->
+7. Xiaoxuan Li, **Yao Liu**, Ruoyu Wang and Lina Yao, [***Regularized Multi-LLMs Collaboration for Enhanced Score-based Causal Discovery***](https://link.springer.com/chapter/10.1007/978-981-96-0573-6_13). The 2024 International Web Information Systems Engineering conference (WISE 2024), Doha, Qatar, 2 December - 5 December, 2024. <!-- CCF-C; CORE-B -->
 
 6. Yuanjiang Cao, **Yao Liu**, Ruoyu Wang, Quan Z. Sheng and Lina Yao, [***Improving Efficiency of Unsupervised Skill Discovery by Model Resetting Curriculum***](). The 2024 International Conference on Neural Information Processing (ICONIP 2024), Auckland, New Zealand, 2 December - 6 December, 2024. <!-- CCF-C; CORE-B -->
 
