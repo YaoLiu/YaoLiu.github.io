@@ -61,7 +61,7 @@ permalink: /services/
 * IEEE Transactions on Cognitive and Developmental Systems (TCDS) <!-- JCR-5.0/Q1 ; ZKY-Q3 -->
 * IEEE Transactions on Control of Network Systems (TCNS)  <!-- JCR-4.0/Q1; ZKY-Q3 -->
 * IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)  <!-- JCR-8.3/Q1; ZKY-Q1 TOP -->
-* IEEE-ACM TRANSACTIONS ON NETWORKING  <!-- JCR-3.0/Q2; ZKY-Q2 -->
+* IEEE/ACM TRANSACTIONS ON NETWORKING (TON)  <!-- JCR-3.0/Q2; ZKY-Q2 -->
 <!-- * IEEE Access 2020预警 JCR-3.4/Q2ZKY-Q3 -->
 * IEEE Transaction on Transportation Electrification (TTE) <!-- JCR-7.2/Q1; ZKY-Q1 TOP -->
 * IEEE Transactions on Industrial Informatics (TII) <!-- JCR-11.7/Q1; ZKY-Q1 TOP -->
