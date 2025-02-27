@@ -26,15 +26,15 @@ permalink: /publications/
 
 ## Journal Paper
 
-8. **Yao Liu<sup>#*</sup>**, Zesheng Ye<sup>#</sup>, Rui Wang, Binghao Li, Quan Z. Sheng, and Lina Yao, [Uncertainty-Aware Pedestrian Trajectory Prediction via Distributional Diffusion](https://www.sciencedirect.com/science/article/pii/S0950705124004969). Knowledge-Based Systems (KNOSYS/KBS), 19 July 2024. <!-- CCF-C; JCR-7.2/Q1; ZKY-Q1 TOP -->
+8. **Yao Liu<sup>#*</sup>**, Zesheng Ye<sup>#</sup>, Rui Wang, Binghao Li, Quan Z. Sheng, and Lina Yao, [Uncertainty-Aware Pedestrian Trajectory Prediction via Distributional Diffusion](https://www.sciencedirect.com/science/article/pii/S0950705124004969). Knowledge-Based Systems (KNOSYS/KBS), 19 July 2024. <!-- CCF-C; JCR-7.2/Q1; ZKY-Q1 TOP; CORE B -->
 
 7. **Yao Liu**, Binghao Li, Xianzhi Wang, Claude Sammut, and Lina Yao, [Attention-aware Social Graph Transformer Networks for
-Stochastic Trajectory Prediction](https://ieeexplore.ieee.org/document/10504962). IEEE Transactions on Knowledge and Data Engineering (TKDE), 18 April 2024. <!-- CCF-A; JCR-8.9/Q1; ZKY-Q2 -->
+Stochastic Trajectory Prediction](https://ieeexplore.ieee.org/document/10504962). IEEE Transactions on Knowledge and Data Engineering (TKDE), 18 April 2024. <!-- CCF-A; JCR-8.9/Q1; ZKY-Q2; CORE A*-->
 
 6. **Yao Liu<sup>#*</sup>**, Gangfeng Cui<sup>#</sup>, Jiahui Luo, Xiaojun Chang, and Lina Yao, [***Two-stream multi-level dynamic point transformer for two-
-person interaction recognition***](https://dl.acm.org/doi/abs/10.1145/3639470). ACM Transactions on Multimedia Computing Communications and Applications (TOMM), 07 February 2024. <!-- CCF-B; JCR-5.2/Q1; ZKY-Q3 -->
+person interaction recognition***](https://dl.acm.org/doi/abs/10.1145/3639470). ACM Transactions on Multimedia Computing Communications and Applications (TOMM), 07 February 2024. <!-- CCF-B; JCR-5.2/Q1; ZKY-Q3; CORE B-->
 
-5. **Yao Liu<sup>*</sup>**, Lina Yao, Binghao Li, Claude Sammut, and Xiaojun Chang, [***Interpolation Graph Convolutional Network for 3D Point Cloud Analysis***](https://onlinelibrary.wiley.com/doi/abs/10.1002/int.23087). International Journal of Intelligent Systems (IJIS), 22 September 2022. <!-- CCF-C; JCR-5.0/Q1; ZKY-Q2 TOP-->
+5. **Yao Liu<sup>*</sup>**, Lina Yao, Binghao Li, Claude Sammut, and Xiaojun Chang, [***Interpolation Graph Convolutional Network for 3D Point Cloud Analysis***](https://onlinelibrary.wiley.com/doi/abs/10.1002/int.23087). International Journal of Intelligent Systems (IJIS), 22 September 2022. <!-- CCF-C; JCR-5.0/Q1; ZKY-Q2 TOP; CORE B-->
 
 4. Xinqing Song, Fanglin Zhu, Xingchen Cao, Jiawei Liu, Rui Wang, Yi Zhang, and **Yao Liu**, [***An IPAVSG Control Strategy for Microgrid With Multi-Parallel VSG System***](https://www.frontiersin.org/articles/10.3389/fenrg.2022.915023/full). Frontiers in Energy Research, 06 June 2022. <!-- JCR-2.6/Q3; ZKY-Q3-->
 
