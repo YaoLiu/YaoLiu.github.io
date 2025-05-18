@@ -4,8 +4,11 @@ permalink: /publications/
 ---
 
 
+
 <!-- ## Books -->
 <!-- ## Patents -->
+## Books 
+1. Michael Sheng, **Yao Liu**, Lina Yao, [***Artificial Intelligence and Pervasive Internet of Things for Smart Aging***](). Springer Nature. (Publishing Agreement)
 
 ## Conference Paper
 
@@ -26,9 +29,14 @@ permalink: /publications/
 
 ## Journal Paper
 
-8. **Yao Liu<sup>#*</sup>**, Zesheng Ye<sup>#</sup>, Rui Wang, Binghao Li, Quan Z. Sheng, and Lina Yao, [Uncertainty-Aware Pedestrian Trajectory Prediction via Distributional Diffusion](https://www.sciencedirect.com/science/article/pii/S0950705124004969). Knowledge-Based Systems (KNOSYS/KBS), 19 July 2024. <!-- CCF-C; JCR-7.2/Q1; ZKY-Q1 TOP; CORE B -->
 
-7. **Yao Liu**, Binghao Li, Xianzhi Wang, Claude Sammut, and Lina Yao, [Attention-aware Social Graph Transformer Networks for Stochastic Trajectory Prediction](https://ieeexplore.ieee.org/document/10504962). IEEE Transactions on Knowledge and Data Engineering (TKDE), 18 April 2024. <!-- CCF-A; JCR-8.9/Q1; ZKY-Q2; CORE A*-->
+10. Ruoyu Wang, Tong Yu, Mingjie Li, Yuanjiang Cao, **Yao Liu**, Lina Yao, [***Learning Causality-Aware Exploration with Transformers for Goal-Oriented Navigation***](). ACM Transactions on Intelligent Systems and Technology (TIST).  <!-- CCF-B JCR-7.2/Q1; ZKY-Q4 -->
+
+9. Bo Wang, **Yao Liu**, Rui Wang, Qiuye Sun, [***Trajectory prediction model of electric vehicle autonomous driving based on hybrid attention transformer network***](). IET Intelligent Transport Systems.  <!-- JCR-2.3/Q2; ZKY-Q4 -->
+
+8. **Yao Liu<sup>#*</sup>**, Zesheng Ye<sup>#</sup>, Rui Wang, Binghao Li, Quan Z. Sheng, and Lina Yao, [***Uncertainty-Aware Pedestrian Trajectory Prediction via Distributional Diffusion***](https://www.sciencedirect.com/science/article/pii/S0950705124004969). Knowledge-Based Systems (KNOSYS/KBS), 19 July 2024. <!-- CCF-C; JCR-7.2/Q1; ZKY-Q1 TOP; CORE B -->
+
+7. **Yao Liu**, Binghao Li, Xianzhi Wang, Claude Sammut, and Lina Yao, [***Attention-aware Social Graph Transformer Networks for Stochastic Trajectory Prediction***](https://ieeexplore.ieee.org/document/10504962). IEEE Transactions on Knowledge and Data Engineering (TKDE), 18 April 2024. <!-- CCF-A; JCR-8.9/Q1; ZKY-Q2; CORE A*-->
 
 6. **Yao Liu<sup>#*</sup>**, Gangfeng Cui<sup>#</sup>, Jiahui Luo, Xiaojun Chang, and Lina Yao, [***Two-stream multi-level dynamic point transformer for two-person interaction recognition***](https://dl.acm.org/doi/abs/10.1145/3639470). ACM Transactions on Multimedia Computing Communications and Applications (TOMM), 07 February 2024. <!-- CCF-B; JCR-5.2/Q1; ZKY-Q3; CORE B-->
 
@@ -55,9 +63,8 @@ permalink: /publications/
 
 5. Qi Yu, Danyang Song, Jinzhu Yang, Zhitao Zhang, Song Sun, Haiyang Sun, Yangyang Li, **Yao Liu**, Yiqiu Qi, Mei Wei, Yiming Liu,[***A Hybrid Contrastive Learning-based Correction Model for Semi-supervised Fetal Echocardiography Segmentation***](). <!-- Knowledge-Based Systems (KNOSYS/KBS) -->  <!-- CCF-C; JCR-7.2/Q1; ZKY-Q1 TOP -->
 
-6. Bo Wang, **Yao Liu**, Rui Wang, Qiuye Sun, [***Trajectory prediction model of electric vehicle autonomous driving based on hybrid attention transformer network***](). <!-- IET Intelligent Transport Systems -->  <!-- JCR-2.3/Q2; ZKY-Q4 -->
 
-7. Ruoyu Wang, Tong Yu, Mingjie Li, Yuanjiang Cao, **Yao Liu**, Lina Yao, [***Learning Causality-Aware Exploration with Transformers for Goal-Oriented Navigation***](). <!-- ACM Transactions on Intelligent Systems and Technology (TIST)-->  <!-- CCF-B JCR-7.2/Q1; ZKY-Q4 -->
+
 
 
 
