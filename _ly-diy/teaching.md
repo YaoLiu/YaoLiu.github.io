@@ -20,15 +20,15 @@ permalink: /teaching/
 
 * 2025 Undergraduate Thesis,  Oct 2024 - Present
 
-   * Yinghao Qin【秦英豪】，NEU/2021, Action Recognition Framework Based on Dual-Stream Transformer【基于双流Transformer的动作识别框架】
+   * Yinghao Qin【秦英豪】，NEU/2021, Design and Implementation of Action Recognition Framework Based on Dual-Stream Transformer【基于双流Transformer动作识别框架的设计与实现】
 
-   * Yuteng Liu【刘宇腾】，NEU/2021，Drone Image Recognition Framework Based on Multi-Level Attention【基于多级注意力的无人机图像识别框架】
+   * Yuteng Liu【刘宇腾】，NEU/2021，Design and Implementation of Drone Image Recognition Framework Based on Multi-Level Attention【基于多级注意力的无人机图像识别框架的设计与实现】
 
-   * Huangjie Zhu【祝黄杰】，NEU/2021，Pedestrian Trajectory Prediction Framework Based on Graph Attention【基于图注意力的行人轨迹预测框架】
+   * Huangjie Zhu【祝黄杰】，NEU/2021，Design and Implementation of Pedestrian Trajectory Prediction Framework Based on Graph Attention【基于图注意力的行人轨迹预测框架的设计与实现】
 
-   * Linghang Yuan【袁领航】，NEU/2021，Multimodal Depression Detection Framework Based on Large Models【基于大模型的多模态抑郁症识别框架】
+   * Linghang Yuan【袁领航】，NEU/2021，Design and Implementation of Trajectory Prediction Framework Based on Diffusion Model【基于扩散模型的轨迹预测框架的设计与实现】
 
-   * Deng Kang【邓康】，NEU/2021，Multimodal Content Recognition Framework Based on Large Models【基于大模型的多模态内容识别框架】
+   * Deng Kang【邓康】，NEU/2021，Design and Implementation of Multimodal Content Recognition Framework Based on Large Models【基于大模型的多模态内容识别框架的设计与实现】
 
 * Undergraduate Class Supervisor,  Class of Artificial Intelligence 2402, CSE, NEU, Sep 2024 - Present
 
