@@ -15,7 +15,7 @@ My research focuses on computer vision, deep learning and large language models,
 Since January 2024, I have been a Postdoctoral Research Associate at the School of Computing, Macquarie University, under the supervision of Prof. [Lina Yao](https://www.linayao.com/) and Prof. [Quan Z. Sheng (Michael)](http://web.science.mq.edu.au/~qsheng/).
 Previously, I was a Ph.D. candidate in the Data Dynamics group at the School of Computer Science and Engineering (CSE), University of New South Wales (UNSW), from 2020. My primary supervisor was Prof. Lina Yao, with A/Prof. Binghao Li as my joint supervisor.
 
-I worked as a software engineer at Cloud&AI, Huawei Technologies Co., Ltd., from 2019 to 2020. Prior to that, I obtained my M.S. and B.S. degrees from the GIS Lab, School of Earth Sciences, Zhejiang University, in 2019 and 2016, respectively, under the supervision of A/Prof. Feng Zhang, Prof. Zhenhong Du, and Prof. Renyi Liu.
+I worked as a software engineer at Cloud&AI, Huawei Technologies Co., Ltd., from 2019 to 2020. Prior to that, I obtained my M.S. and B.S. degrees from the GIS Lab, School of Earth Sciences, Zhejiang University, in 2019 and 2016, respectively, under the supervision of Prof. Feng Zhang, Prof. Zhenhong Du, and Prof. Renyi Liu.
 
 
 <!-- 
