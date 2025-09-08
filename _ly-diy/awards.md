@@ -5,24 +5,28 @@ permalink: /awards/
 
 ## Grants
 
-* Principal Investigator of the 2024 National Key R\&D Program of China, Topic 2, Sub-topic 1, with a funding of 500,000 RMB.
-    * Project: "Four-Dimensional Functional DSA High-Definition Blood Flow Perfusion Imaging Technology Research and Prototype Development" - "High-Precision Spatio-Temporal Cardiovascular Registration and Lesion Feature Analysis Technology Research" (2024YFC2417802).
-    * Duration: Lecturer period in Northeastern University, China
+* **Principal Investigator (Sub-topic 1, Topic 2)**, National Key R&D Program of China (2024YFC2417802)  
+  * Project: *Four-Dimensional Functional DSA High-Definition Blood Flow Perfusion Imaging Technology Research and Prototype Development*.  
+  * Topic 2: *High-Precision Spatio-Temporal Cardiovascular Registration and Lesion Feature Analysis*.  
+  * Funding: CNY 500,000.  
+  * Period: Lecturer period, Northeastern University, China.
 
 <!--
-* Core Participant in~Australian Research Council, Discovery Projects (GA141053: Robust Preference Inference from Spatial-Temporal Interaction Networks)
-    * Duration: Postdoc period in Macquaire University
+* **Core Participant**, Australian Research Council (ARC) Discovery Project (GA141053)  
+  * Project: *Robust Preference Inference from Spatial-Temporal Interaction Networks*.  
+  * Period: Postdoctoral Research Associate period, Macquarie University.  
 
-* Core Participant in~Cooperative Research Centres Projects (CRCP) Grants (CRCPEIGHT000094: DeepIoT)}
-    * Duration: PhD period in UNSW
+* **Core Participant**, Cooperative Research Centres Projects (CRCP) Grant (CRCPEIGHT000094)  
+  * Project: *DeepIoT*.  
+  * Period: Ph.D. period, UNSW Sydney.  
 -->
 
 
 ## Awards
 
-* UNSW Tuition Fee Scholarship 2020-2024 (Ph.D. Period)
-* Excellent Postgraduate Student’s Award of Zhejiang University (M.S. Period)
-* Outstanding Graduates of Zhejiang University (B.S. Period)
+* UNSW Tuition Fee Scholarship (2020 – 2024, Ph.D. period).  
+* Excellent Postgraduate Student Award, Zhejiang University (2019, M.S. period).  
+* Outstanding Graduate Award, Zhejiang University (2016, B.S. period).  
 
 
 <!-- ## Grants -->
