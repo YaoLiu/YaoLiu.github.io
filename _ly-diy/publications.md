@@ -8,9 +8,9 @@ permalink: /publications/
 <!-- ## Books -->
 <!-- ## Patents -->
 ## Books 
-1. Michael Sheng, **Yao Liu**, Lina Yao, [***Artificial Intelligence and Pervasive Internet of Things for Smart Aging***](). Springer Nature. (Publishing Agreement)
+1. Michael Sheng, **Yao Liu**, Lina Yao, [***Artificial Intelligence and Pervasive Internet of Things for Smart Aging***](). Springer Nature (Contract signed, forthcoming).
 
-## Conference Paper
+## Conference Papers
 
 7. Xiaoxuan Li, **Yao Liu**, Ruoyu Wang and Lina Yao, [***Regularized Multi-LLMs Collaboration for Enhanced Score-based Causal Discovery***](https://link.springer.com/chapter/10.1007/978-981-96-0573-6_13). *The 2024 International Web Information Systems Engineering conference (WISE 2024)*, Doha, Qatar, 2 December - 5 December, 2024. <!-- CCF-C; CORE-B --> 
 
@@ -27,7 +27,7 @@ permalink: /publications/
 1. **Yao Liu<sup>*</sup>**, Lina Yao, Binghao Li, Xianzhi Wang, and Claude Sammut, [***Social Graph Transformer Networks for Pedestrian Trajectory Prediction in Complex Social Scenarios***](https://dl.acm.org/doi/abs/10.1145/3511808.3557455). *The 31st ACM International Conference on Information and Knowledge Management (CIKM 2022)*, Atlanta, Georgia, USA, 17 October - 21 October, 2022. <!-- CCF-B; CORE-A -->
 
 
-## Journal Paper
+## Journal Papers
 
 12. Qi Yu, Danyang Song, Jinzhu Yang, Zhitao Zhang, Song Sun, Haiyang Sun, Yangyang Li, **Yao Liu**, Yiqiu Qi, Mei Wei, Yiming Liu, [***A multi-level contrastive learning-based correction model for semi-supervised fetal echocardiography segmentation***](https://www.sciencedirect.com/science/article/pii/S0925231225015309). *Neurocomputing*, Volume 650, 14 October 2025, Article 130858. <!-- CCF-C; JCR-6.6/Q1; ZKY-Q2 -->
 
@@ -54,7 +54,7 @@ permalink: /publications/
 1. Jiali Zheng, Feng Zhang, Zhenhong Du, Lifang Lai, Renyi Liu, **Yao Liu**, [***Multi-scale analysis of spatial-temporal characteristics of infectious diseases: A case study on gonorrhea, bacillary dysentery and mumps in Hangzhou***](https://www.zjujournals.com/sci/CN/10.3785/j.issn.1008-9497.2018.05.013). *Journal of Zhejiang University (Science Edition)*, 2018. 【郑嘉丽，张丰，杜震洪，来丽芳，刘仁义，**刘尧**，***传染病的多尺度时空特征分析——以杭州市淋病, 细菌性痢疾和流行性腮腺炎为例***，*浙江大学学报: 理学版*，2018】<!-- Chinese Core-->
 
 
-## Pre Print 
+## Preprints
  
 1. **Yao Liu<sup>*</sup>**, Jinzhu Yang, Quan Z. Sheng, and Lina Yao, [***Synchronized Trajectory Prediction for Hybrid Multi-agent via Attention-Denoised End point Distribution***](). <!-- TAAS -->  <!-- CCF-B; JCR-2.2/Q2; ZKY-Q4(2/1)-->
 
