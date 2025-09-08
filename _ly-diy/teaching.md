@@ -4,21 +4,22 @@ permalink: /teaching/
 ---
 
 
-## Course
-* Software Engineering, 2025 Spring/Summer, CSE, Northeastern University (NEU).
+## Courses
+* **Image Processing and Analysis**, 2025 Fall/Winter, CSE, Northeastern University (NEU).
+* **Software Engineering**, 2025 Spring/Summer, CSE, Northeastern University (NEU).
 
 ## Casual Academic
-
-* Tutor/Teaching Assistant, COMP 9727, Recommender Systems, 2022 T2, UNSW.
+* **Image Processing and Analysis** (Tutor/TA), 2024 Fall/Winter, NEU.
+* **COMP9727: Recommender Systems** (Tutor/TA), 2022 Fall/Winter, UNSW Sydney.
 
 ## Primary Supervision
 ### Undergraduate Supervision
 
 *  Northeastern University's 19th (2025) Batch of Student Innovation Training Programme Projects【东北大学第十九批(2025年)大学生创新训练计划项目】,  Oct 2024 - Present
   
-   *  Chunzhuang Wu, Siqi Zhao, Mingxue Shao, Ziteng Zhang, FenghaoZhu【吴春壮, 赵思琪, 邵明雪, 张子腾, 朱风豪】, Conservation Platform for Historic Buildings and Cultural Relics Based on Digital Maps and Large Models【基于数字地图和大模型的历史建筑文物保护平台】, D202411172241029848
+   *  Chunzhuang Wu, Siqi Zhao, Mingxue Shao, Ziteng Zhang, Fenghao Zhu【吴春壮, 赵思琪, 邵明雪, 张子腾, 朱风豪】, Conservation Platform for Historic Buildings and Cultural Relics Based on Digital Maps and Large Models【基于数字地图和大模型的历史建筑文物保护平台】, D202411172241029848
 
-* 2025 Undergraduate Thesis,  Oct 2024 - Present
+* 2025 Undergraduate Thesis,  Oct 2024 - Jun 2025
 
    * Yinghao Qin【秦英豪】，NEU/2021, Design and Implementation of Action Recognition Framework Based on Dual-Stream Transformer【基于双流Transformer动作识别框架的设计与实现】
 
