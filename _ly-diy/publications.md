@@ -18,7 +18,7 @@ permalink: /publications/
 
 5. Ruoyu Wang, **Yao Liu**, Yuanjiang Cao, Lina Yao, [***Causality-Aware Transformer Networks for Robotic Navigation***](https://link.springer.com/chapter/10.1007/978-981-96-7030-7_28). *The 2024 International Conference on Neural Information Processing (ICONIP 2024)*, Auckland, New Zealand, 2 December - 6 December, 2024. <!-- CCF-C; CORE-B -->
 
-4. **Yao Liu**<sup>*</sup>, Ruoyu Wang, Yuanjiang Cao, Quan Z. Sheng, and Lina Yao, [***Multi-agent Traffic Prediction via Denoised Endpoint Distribution***](https://ieeexplore.ieee.org/document/10802142). *The 2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2024)*, Abu Dhabi, UAE, 14 October – 18 October, 2024. <!-- CCF-C; CORE-A -->
+4. **Yao Liu<sup>*</sup>**, Ruoyu Wang, Yuanjiang Cao, Quan Z. Sheng, and Lina Yao, [***Multi-agent Traffic Prediction via Denoised Endpoint Distribution***](https://ieeexplore.ieee.org/document/10802142). The 2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2024), Abu Dhabi, UAE, 14 October – 18 October, 2024. <!-- CCF-C; CORE-A -->
 
 3. **Yao Liu**<sup>*</sup>, Binghao Li, Claude Summet, and Lina Yao, [***Multi-level Attention Network with Weather Suppression for All-weather Action Detection in UAV Rescue Scenarios***](https://link.springer.com/chapter/10.1007/978-981-99-8138-0_43). *The 2023 International Conference on Neural Information Processing (ICONIP 2023)*, Changsha, China, 20 November - 23 November, 2023.  <!-- CCF-C; CORE-B -->
 
