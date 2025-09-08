@@ -49,9 +49,9 @@ permalink: /publications/
 
 3. Tianyi Guan, Xin Zhao, Wenjing Zheng, Hu Liu, **Yao Liu**, and Qiuye Sun, [***Improved sliding-mode vector control strategy combined with extended reactive power for MMC under unbalanced grid condition***](https://www.frontiersin.org/articles/10.3389/fenrg.2022.874533/full). Frontiers in Energy Research, 24 March 2022.  <!-- JCR-2.6/Q3; ZKY-Q3-->
 
-2. **Yao Liu**, Yingzhi Wang, Lijun Wang, Feng Zhang, Zhenhong Du, and Renyi Liu, [***Spatial-Temporal Hotspots Analysis of Traffic Accidents***](https://www.zjujournals.com/sci/CN/10.3785/j.issn.1008-9497.2020.01.007). Journal of Zhejiang University (Science Edition), 2020. 【**刘尧**，王颖志，王立君，张丰，杜震洪，刘仁义，***交通事故的时空热点分析***，*浙江大学学报: 理学版*，2020】<!-- Chinese Core-->
+2. **Yao Liu**, Yingzhi Wang, Lijun Wang, Feng Zhang, Zhenhong Du, and Renyi Liu, [***Spatial-Temporal Hotspots Analysis of Traffic Accidents***](https://www.zjujournals.com/sci/CN/10.3785/j.issn.1008-9497.2020.01.007). Journal of Zhejiang University (Science Edition), 2020. 【**刘尧**，王颖志，王立君，张丰，杜震洪，刘仁义，***交通事故的时空热点分析***，浙江大学学报: 理学版，2020】<!-- Chinese Core-->
 
-1. Jiali Zheng, Feng Zhang, Zhenhong Du, Lifang Lai, Renyi Liu, **Yao Liu**, [***Multi-scale analysis of spatial-temporal characteristics of infectious diseases: A case study on gonorrhea, bacillary dysentery and mumps in Hangzhou***](https://www.zjujournals.com/sci/CN/10.3785/j.issn.1008-9497.2018.05.013). Journal of Zhejiang University (Science Edition), 2018. 【郑嘉丽，张丰，杜震洪，来丽芳，刘仁义，**刘尧**，***传染病的多尺度时空特征分析——以杭州市淋病, 细菌性痢疾和流行性腮腺炎为例***，*浙江大学学报: 理学版*，2018】<!-- Chinese Core-->
+1. Jiali Zheng, Feng Zhang, Zhenhong Du, Lifang Lai, Renyi Liu, **Yao Liu**, [***Multi-scale analysis of spatial-temporal characteristics of infectious diseases: A case study on gonorrhea, bacillary dysentery and mumps in Hangzhou***](https://www.zjujournals.com/sci/CN/10.3785/j.issn.1008-9497.2018.05.013). Journal of Zhejiang University (Science Edition), 2018. 【郑嘉丽，张丰，杜震洪，来丽芳，刘仁义，**刘尧**，***传染病的多尺度时空特征分析——以杭州市淋病, 细菌性痢疾和流行性腮腺炎为例***，浙江大学学报: 理学版，2018】<!-- Chinese Core-->
 
 
 ## Preprints
